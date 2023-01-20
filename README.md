@@ -12,7 +12,7 @@
             <h2 align="center">you can reach me by:</h2>
             <p align="center">
                 <br/>
-                <a href="https://www.linkedin.com/in/yun-zhao-48a619250/" target="blank">
+                <a href="https://www.linkedin.com/in/z-yun/" target="blank">
                     <img align="center"
                          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=flat&logo=linkedin&logoColor=white"
                          alt="yun"
